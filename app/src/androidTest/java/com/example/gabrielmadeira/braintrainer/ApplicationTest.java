@@ -1,4 +1,4 @@
-package com.example.robpercival.braintrainer;
+package com.example.gabrielmadeira.braintrainer;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

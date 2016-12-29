@@ -1,4 +1,4 @@
-package com.example.robpercival.braintrainer;
+package com.example.gabrielmadeira.braintrainer;
 
 import android.app.Activity;
 import android.os.Bundle;
